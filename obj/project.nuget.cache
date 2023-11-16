@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0f/I3Sm3sNUta8F65YsbyUOEZevGuN924BO2j6PJQEMoJwbsDdcUZarbkP6Ke9yB21Md/DNo/FTlw9L6yEB0pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rgbra\\Documents\\Coding\\C#\\mandelbrot\\mandelbrot_fractal\\mandelbrot_fractal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgbra\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\rgbra\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
